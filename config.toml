@@ -2,7 +2,7 @@ baseURL = "https://s-matsushiro.github.io/MS_NetworkLAB/"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
-publishDir = "public"
+publishDir = "docs"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
