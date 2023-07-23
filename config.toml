@@ -1,3 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Network LAB'
+theme = 'hugo-whisper-theme'
+
+[Params]
+subtitle = 'プログラミング教室'
