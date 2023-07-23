@@ -7,6 +7,7 @@ publishDir = "docs"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+canonifyURLs = true
 
 [module]
   [module.hugoVersion]
