@@ -49,6 +49,7 @@ summaryLength = 30
     meta_twitter_creator = "@madesa_matsu"
 
   [params.logo]
+
       mobile = "images/logo-mobile.svg"
       standard  = "images/logo.svg"
 
